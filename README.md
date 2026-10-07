@@ -1,4 +1,4 @@
-# Homelab - Ubuntu Server Backup, Storage & Restore (BSR) Strategy
+# Homelab - Ubuntu Server Backup, Storage & Restore (BSR)
 
 > **Language / Taal:** [English](README.md) | [Nederlands](README.nl.md)
 
