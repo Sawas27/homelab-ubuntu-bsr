@@ -1,4 +1,4 @@
-# Homelab — Ubuntu Server Backup, Storage & Restore (BSR) Strategy
+# Homelab - Ubuntu Server Backup, Storage & Restore (BSR) Strategy
 
 > **Language / Taal:** [English](README.md) | [Nederlands](README.nl.md)
 
@@ -112,7 +112,7 @@ Verification
 
 Successfully verified that system configurations (e.g., ssh/, sudoers, cron.d/) were extracted and intact without corruptions.
 
-Key Technical Skills Demonstrated
+Key Technical Skills Demonstrated:
 
 - Storage Management: Partitioning, ext4 formatting, mounting, and /etc/fstab persistent configuration.
 - Data Protection: Shell scripting using tar and gzip for compressed system backups.
